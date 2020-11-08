@@ -1,8 +1,12 @@
 # TimeMachine-Java
 Time machine in Java.
 
+About
 
-Project structure:
+The TM project is designed with the purpose to help concentrating on a single task. Timing your work, for periods which are of complete focus on a single tasks has the potential to increase productivity and efficiency. The ability to monitor and analyse the time we put to different projects and tasks seems valuable. Recording your work by category, time of the day, day of the week and more can result in better performance and increased productivity. The tool was designed for studying, to allow the use of Pomodoro technique, to keep track of what was done when and how much time was devoted to each thing. The tool should be useful for work, reading, hobbies and other skills one may try to obtain.
+
+
+Project structure
 
   Stable-release: 
     Official releases. 
